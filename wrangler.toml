@@ -1,6 +1,9 @@
 name = "tahadoc-cloudflare"
 compatibility_date = "2024-01-01"
 
+[assets]
+directory = "."
+
 [[d1_databases]]
 binding = "DB"
 database_name = "tahadoc-doctors"
